@@ -1,5 +1,5 @@
 # Portfolio
-Below you will find descriptions of and links to the various projects I have worked on that I showcase
+Below you will find descriptions of and links to the various projects I have worked on that showcase
 my personal talents and skills.
 
 
