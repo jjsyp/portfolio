@@ -1,5 +1,6 @@
 # Portfolio
-Various projects I have worked on.
+Below you will find descriptions of and links to the various projects I have worked on that I showcase
+my personal talents and skills.
 
 
 **Project**: Text to speech benchmarking tool
