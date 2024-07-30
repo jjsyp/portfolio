@@ -17,6 +17,7 @@ submitted by the analysts and is saved in a database for easy storage, access, a
 framework utilizing an MVC pattern along with flask blueprints. A frontend user interface primarily in JavaScript 
 on a React framework and CSS for styling. An accompanying database scheme designed in PostgreSQL, and a user 
 authentication system through Google’s OAuth2 API. 
+
 I also met several times with Deepgram's CTO to ensure the program's architecture would allow for easy
 integration with the company's existing systems.  I also met with the Head of Data Opertations, who would have direct
 oversight of those using the tool, to collect customer stories in order to build an ideal tool for the company. 
