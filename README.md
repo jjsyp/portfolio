@@ -1,4 +1,11 @@
 # Portfolio
+
+**About Me**:
+I am a recent college graduate with a Bachelor’s of Science in Applied Computer Science.  I am actively look for a career 
+in software where I can further my passions and knowledge of this field.  I love the complex puzzle that comes with 
+dealing with large scale applications and genuinely want to push and expand my abilities to tackle and coding and 
+development challenge that comes my way.
+
 Below you will find descriptions of and links to the various projects I have worked on that showcase
 my personal talents and skills.
 
