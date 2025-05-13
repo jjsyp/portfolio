@@ -31,6 +31,23 @@ oversight of those using the tool, to collect customer stories in order to build
 I also designed and presented several wireframes to showcase the user interface before beginning development.
 
 
+**Project**: Combat Tracker Application
+
+**Github repo link**: https://github.com/jjsyp/combat_tracker
+
+Description: Developed a desktop application for tracking combat encounters in tabletop role-playing games. The application 
+features a dynamic initiative tracking system that automatically sorts characters by their initiative rolls, maintains round 
+count, and allows for quick health and status modifications during combat. Users can create, copy, and manage multiple 
+characters with custom fields for flexibility. The application includes session management capabilities, allowing users to 
+save and load combat states, making it perfect for long-running campaigns or recurring encounters. The interface is designed 
+with quick-edit functionality for rapid updates during fast-paced combat scenarios.
+
+**Languages, tools, libraries, or skills used**: Built using Python with Tkinter for the GUI implementation, following a modular
+component-based architecture. The application utilizes object-oriented programming principles with clear separation of concerns 
+through component isolation. Key technical features include: Custom GUI components built on Tkinter/ttk for a native look and feel,
+Session management system with auto-save functionality, Modular architecture using Python's import system, JSON-based data 
+persistence for character and session storage
+
 
 **Project**: Screen capture and object detection
 
